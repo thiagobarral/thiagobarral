@@ -6,12 +6,14 @@
 
 <img align="left" alt="SQL Server" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 
+<html lang="pt-br">
 <header>
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </header>
 <body>
  <i class="devicon-microsoftsqlserver-plain"></i>        
 </body>
+</html>
 
 <img align="left" alt="R" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />          
 
