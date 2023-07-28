@@ -4,7 +4,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="SQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="SQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />        
 
 <img align="left" alt="R" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />          
 
