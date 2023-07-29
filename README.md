@@ -1,9 +1,5 @@
 ### Hello, World! 👋
 
-<details>
-    <summary><b>🎁 Open me (Markdown approach) </b></summary>
-    ![](https://giphy.com/embed/FBeSx3itXlUQw/giphy.gif)
-</details>
  
 ### Languages and Tools:
 
