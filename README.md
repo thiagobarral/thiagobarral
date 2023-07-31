@@ -2,7 +2,7 @@
 
 https://github.com/thiagobarral/thiagobarral/assets/56553065/60cda794-1d1c-4e45-b1ce-664ea37cd7de
 
-
+<img align="right" alt="GIF" src="[https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif](https://github.com/thiagobarral/thiagobarral/assets/56553065/60cda794-1d1c-4e45-b1ce-664ea37cd7de)" width="100" height="56" />
 
  
 ### Languages and Tools:
