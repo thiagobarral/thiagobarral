@@ -1,9 +1,6 @@
 ### Hello, World! 
 
-https://github.com/thiagobarral/thiagobarral/assets/56553065/60cda794-1d1c-4e45-b1ce-664ea37cd7de
-
-<img align="right" alt="GIF" src="[https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif](https://github.com/thiagobarral/thiagobarral/assets/56553065/60cda794-1d1c-4e45-b1ce-664ea37cd7de)" width="100" height="56" />
-
+<div style="padding-top:75.000%;position:relative;"><iframe src="https://gifer.com/embed/7tRH" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div>
  
 ### Languages and Tools:
 
