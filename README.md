@@ -1,7 +1,5 @@
 ### Hello, World! 
 
-<img align="right" width="200px" src="https://gifer.com/embed/7tRH" />
-
 ### Languages and Tools:
 
 <img align="left" title="SQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />        
