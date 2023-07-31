@@ -1,4 +1,8 @@
-### Hello, World! 👋
+### Hello, World! 
+
+https://github.com/thiagobarral/thiagobarral/assets/56553065/60cda794-1d1c-4e45-b1ce-664ea37cd7de
+
+
 
  
 ### Languages and Tools:
