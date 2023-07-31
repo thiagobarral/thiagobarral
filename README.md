@@ -1,7 +1,7 @@
 ### Hello, World! 
 
-<div style="padding-top:75.000%;position:relative;"><iframe src="https://gifer.com/embed/7tRH" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div>
- 
+<img align="right" width="200px" src="https://gifer.com/embed/7tRH" />
+
 ### Languages and Tools:
 
 <img align="left" title="SQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />        
