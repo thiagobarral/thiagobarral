@@ -1,5 +1,9 @@
 # Hello, World! 
 
+## https://registry.jsonresume.org/thiagobarral
+
+## https://www.linkedin.com/in/thiago-barral/
+
 ### Languages and Tools:
 
 <img align="left" title="SQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />        
