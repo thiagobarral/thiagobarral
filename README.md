@@ -2,7 +2,7 @@
 
 ## https://registry.jsonresume.org/thiagobarral
 
-## www.linkedin.com/in/thiago-barral-data-scientist
+## www.linkedin.com/in/thiago-barral-data-expert
 
 ### Languages and Tools:
 
